@@ -7,10 +7,10 @@ def subtract(a, b):
     pass
 
 def multiply(a, b):
-    pass
+    return a * b
 
 def divide(a, b):
-    pass
+    return a / b
 
 if __name__ == "__main__":
-    print("Welcome to the calculator!, written by {CONTRIBUTORS}")
+    print("Welcome to the calculator!, written by Victor, Helen and Reeaa!")
