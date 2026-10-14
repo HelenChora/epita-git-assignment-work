@@ -1,4 +1,4 @@
-CONTRIBUTORS = []
+CONTRIBUTORS = ["Nga"]
 
 def add(a, b):
     return a + b
